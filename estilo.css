@@ -12,6 +12,13 @@
 }
 
 
+
 body{
-    
+    background-image: url("imagenes/imagen3.jpg"); /* poner imagen de fondo */
+   
+    background-repeat: no-repeat;  /* que la imagen no se repita */
+   
+    background-size: cover;    /* que la imagen cubra toda la pantalla */
+   
+    font-family: 'Roboto', sans-serif; /* cambiar la letra de toda la pagina con el codigo de HTML*/
 }
